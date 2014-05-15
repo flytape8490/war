@@ -1,0 +1,1 @@
+An attempt to recreate the War cardgame in Python. It's also a learning exercise for me to explore how object classes work.
